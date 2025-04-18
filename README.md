@@ -1,4 +1,4 @@
-# Feature Enrichement
+# Feature Enrichment
 This repository includes feature enrichement approaches based on similar trajectories for pems station d1 traffic flow data.
 
 To obtain similar trajectories, use the following files by changing window size (window_size), number of similar data (k) and metric:
